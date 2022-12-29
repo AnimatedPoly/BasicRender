@@ -1,5 +1,5 @@
 # Basic Render
-*A basic ui render for roblox.
+A basic ui render for roblox.
 
 # Installtion
 
